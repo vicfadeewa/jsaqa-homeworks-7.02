@@ -1,0 +1,15 @@
+{
+  "name": "jsaqa-homeworks-7.02",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "test"
+  ],
+  "license": "ISC",
+  "author": "Victoriya Fadeeva",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "neto"
+  }
+}
